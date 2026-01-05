@@ -1,13 +1,15 @@
 # Exploratory-Data-Analysis-EDA-Using-Python-
 End-to-end Exploratory Data Analysis using Python to clean raw data, analyze distributions, visualize trends, and derive actionable business insights.
 
-Project Description
+Project Description:
+
 This project focuses on performing Exploratory Data Analysis (EDA) using Python to understand the structure, quality, and patterns within the dataset. The analysis involves data cleaning, transformation, visualization, and insight generation to convert raw data into a structured and analysis-ready format that supports business decision-making.
 
-Objective
+Objective:
+
 To explore and understand the dataset by identifying data quality issues, uncovering trends and relationships, and generating actionable insights through statistical analysis and visualizations.
 
-Tools & Technologies
+Tools & Technologies:
 Python
 Pandas – Data manipulation and cleaning
 NumPy – Numerical computations
